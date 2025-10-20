@@ -1,0 +1,12 @@
+{
+  "forecast": {
+    "mae": 2.5708349838046844,
+    "rmse": 3.408257486288557,
+    "r2": 0.6667616836137576,
+    "mape_pct": 15.307649168481161,
+    "plots": [
+      "forecast_pred_vs_actual.png",
+      "forecast_residuals.png"
+    ]
+  }
+}
